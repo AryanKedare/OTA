@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-      "datetime": 1550142203,
-      "filename": "lineage-16.0-20190214-UNOFFICIAL-nibaji-whyred.zip",
-      "id": "3047f39740c7547cb012438ff96bc142",
-      "romtype": "UNOFFICIAL",
-      "size": 746595681,
-      "url": "https://basketbuild.com/uploads/devs/nibaji/xiaomi/whyred/lineage-16.0/lineage-16.0-20190214-UNOFFICIAL-nibaji-whyred.zip",
-      "version": "16.0"
-    }
-  ]
-}
+* inital ota
