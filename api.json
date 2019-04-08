@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1553093001,
-      "filename": "lineage-16.0-20190320-UNOFFICIAL-aryankedare-mido.zip",
-      "id": "597944b3311e54080d56e99f3d0a2e24",
+      "datetime": 554719408,
+      "filename": "lineage-16.0-20190408-UNOFFICIAL-aryankedare-mido.zip",
+      "id": "37659108b7f96f18328ccc3bdec0dcc6",
       "romtype": "UNOFFICIAL",
-      "size": 593547453,
-      "url": "http://jenkins3.legacyserver.in/job/TestBuilds-Mido/lastSuccessfulBuild/artifact/out/target/product/mido/lineage-16.0-20190320-UNOFFICIAL-aryankedare-mido.zip",
+      "size": 592920716,
+      "url": "https://qc4.androidfilehost.com/dl/BJm0pVs2pOEIsX-4NwGrqQ/1554956213/1395089523397936180/lineage-16.0-20190408-UNOFFICIAL-aryankedare-mido.zip",
       "version": "16.0"
     }
   ]
