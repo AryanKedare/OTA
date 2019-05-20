@@ -1,1 +1,8 @@
-* inital ota
+* Redesigned XiaomiParts 
+* Updated TiltSensor Configuration
+* Merged 3.18.140 in Perf Kernel
+* Added One Handed Mode
+* Added AOD Support 
+* Merged Latest LOS Upstreams 
+* Updated Biometrics Configuration For Goodix
+* Merged Latest Upstreams From Zeelog
