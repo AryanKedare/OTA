@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1587350920,
-      "filename": "lineage-17.1-20200420-UNOFFICIAL-aryankedare-mido.zip",
-      "id": "350b8e84cae52546fededcc66da8233d",
+      "datetime": 1589860640,
+      "filename": "lineage-17.1-20200519-UNOFFICIAL-aryankedare-3.18-mido.zip",
+      "id": "80442b8c4489b8f3d1f006ff1f95fb54",
       "romtype": "UNOFFICIAL",
-      "size": 666430712,
-      "url": "https://github.com/AryanKedare/OTA/releases/download/20200420/lineage-17.1-20200420-UNOFFICIAL-aryankedare-mido.zip",
+      "size": 669851890,
+      "url": "https://github.com/AryanKedare/OTA/releases/download/20200519/lineage-17.1-20200519-UNOFFICIAL-aryankedare-3.18-mido.zip",
       "version": "17.1"
     }
   ]
